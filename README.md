@@ -6,7 +6,7 @@ All in one
 
 ## 📱 Here are some screenshots:
 
-
+### package: https://pub.dev/packages/razorpay_flutter
 | Razorpay |
 | ------------- |
 | <img src="https://user-images.githubusercontent.com/88751768/218740048-12ef1fe4-83ae-47c6-b2c8-e866c484eafe.png" width =300 > |
