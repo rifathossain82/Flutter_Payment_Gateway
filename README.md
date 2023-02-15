@@ -3,7 +3,7 @@ All in one
 
 
 #### Check the branches
-[Razorpay](https://github.com/rifathossain82/Flutter_Payment_Gateway/tree/razorpayy)<br/>
+[Razorpay](https://github.com/rifathossain82/Flutter_Payment_Gateway/tree/razorpay)<br/>
 [sslcommerz](https://github.com/rifathossain82/Flutter_Payment_Gateway/tree/sslcommerz)<br/>
 [Stripe](https://github.com/rifathossain82/Flutter_Payment_Gateway/tree/stripe)<br/>
 [Aamarpay](https://github.com/rifathossain82/Flutter_Payment_Gateway/tree/aamarpay)<br/>
