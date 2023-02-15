@@ -1,8 +1,14 @@
 # Flutter_Payment_Gateway
 All in one
 
-#### Check the branches
 
+#### Check the branches
+[Razorpay](https://github.com/rifathossain82/Flutter_Payment_Gateway/tree/razorpayy)<br/>
+[sslcommerz](https://github.com/rifathossain82/Flutter_Payment_Gateway/tree/sslcommerz)<br/>
+[Stripe](https://github.com/rifathossain82/Flutter_Payment_Gateway/tree/stripe)<br/>
+[Aamarpay](https://github.com/rifathossain82/Flutter_Payment_Gateway/tree/aamarpay)<br/>
+[Paypal](https://github.com/rifathossain82/Flutter_Payment_Gateway/tree/paypal)<br/>
+[Google Pay - Apple Pay](https://github.com/rifathossain82/Flutter_Payment_Gateway/tree/gpay_applepay)<br/>
 
 
 ## 📱 Here are some screenshots:
